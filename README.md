@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## I'm a software developer. And in the future, I hope to complete this section "About me"
+- 🔭 I’m currently working on Yes Technology.
+- 🌱 I’m currently learning how a SRE person works.
 <!--
 **felipefinhane/felipefinhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
