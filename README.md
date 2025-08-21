@@ -1,60 +1,71 @@
-# Felipe Finhane de Paula
+# 👋 Hi, I'm Felipe Finhane de Paula  
 
 📍 Indaiatuba, São Paulo, Brazil  
-📞 +55 19 98339 6650 | ✉️ felipe@finhane.com  
-🔗 [GitHub](https://github.com/felipefinhane) | [LinkedIn](https://www.linkedin.com/in/felipefdepaula)
+📞 +55 19 98339 6650 | ✉️ [felipe@finhane.com](mailto:felipe@finhane.com)  
+🔗 [GitHub](https://github.com/felipefinhane) | [LinkedIn](https://www.linkedin.com/in/felipefdepaula)  
 
 ---
 
-## Professional Summary
-Backend Software Engineer with **10+ years of experience** in designing and building scalable applications. Specialized in **Go, PHP, and cloud-native architectures**, with strong expertise in **AWS, Docker, Kubernetes, and databases (SQL & NoSQL)**. Proven track record in delivering **high-availability systems that improved performance and reduced downtime by 40%**. Currently seeking opportunities to contribute to **international teams**, focusing on **backend engineering, DevOps practices, and SRE principles**.
+## 🚀 Professional Summary  
+Backend Software Engineer with **10+ years of experience** in web development and scalable architectures.  
+Specialized in **Go, PHP, and microservices**, with strong expertise in **AWS, Docker, Kubernetes, and databases (SQL & NoSQL)**.  
+Proven track record in delivering **high-availability systems** that improved performance and reduced downtime.  
+Currently pursuing an **MBA in Full Cycle Architecture**, seeking to contribute to **international teams** with a focus on **backend engineering, DevOps practices, and SRE principles**.  
 
 ---
 
-## Education
-- **FATEC Indaiatuba – São Paulo State Technological College**  
-  *Technologist Degree in Systems Analysis and Development* (2013 – 2016)
+## 🎓 Education  
+- **MBA in Full Cycle Architecture** – Full Cycle (2023 – 2025)  
+- **Technologist Degree in Systems Analysis and Development** – FATEC Indaiatuba (2013 – 2016)  
+- **Technical Degree in Informatics** – ETE Pedro Ferreira Alves (2001 – 2002)  
 
 ---
 
-## Languages
-- Portuguese – Native  
-- English – Intermediate (B2)  
-- Spanish – Basic  
+## 🌎 Languages  
+- 🇧🇷 Portuguese – Native  
+- 🇬🇧 English – Intermediate (B2)  
+- 🇪🇸 Spanish – Basic  
 
 ---
 
-## Experience
+## 💼 Experience  
 
-**Yes Technology – Backend Software Engineer**  
-*August 2016 – Present*  
+### **Yes Technology – Senior Backend Software Engineer**  
+*Aug 2016 – Present | Remote (Brazil)*  
 - Designed and implemented an **Integrated System** using **microservices architecture**, applying Agile, DevOps, and SRE practices.  
-- Developed scalable solutions with **Go (Golang), PHP, JavaScript**, and databases (**MySQL, MongoDB**).  
-- Managed cloud infrastructure with **AWS, Docker, and Kubernetes (including Kops)**.  
-- Implemented monitoring and observability with **Prometheus, Grafana, and Istio**.  
+- Developed backend services with **Go (Golang), PHP, JavaScript**, and databases (**MySQL, MongoDB**).  
+- Managed infrastructure with **AWS, Docker, and Kubernetes (including Kops)**.  
+- Implemented observability using **Prometheus, Grafana, and Istio**.  
 - Collaborated with distributed teams to ensure **high availability and reliability** for mission-critical applications.  
 
-**Guia-se Negócios pela Internet – Senior Software Developer**  
-*March 2014 – August 2016*  
-- Developed new features and maintained **CRM and CMS platforms**.  
-- Delivered web-based solutions using **PHP, JavaScript, MySQL, Git, AWS, and Linux**.  
-- Improved **system performance and scalability**.  
+---
 
-**Plus-IT Consulting / Anhanguera Educacional – Software Developer**  
-*April 2012 – February 2014*  
-- Designed and developed web applications for institutional portals using **PHP, frameworks, JSON, and SQL databases**.  
-- Deployed **cloud-based applications** on AWS, improving scalability and performance.  
-- Optimized code with **caching strategies** to increase efficiency.  
+### **Guia-se Negócios pela Internet – Senior Software Developer**  
+*Mar 2014 – Aug 2016*  
+- Developed and maintained **CRM and CMS platforms**.  
+- Delivered solutions with **PHP, JavaScript, MySQL, Git, AWS, and Linux**.  
+- Improved **system scalability and performance**.  
 
-**Other Companies – Various Roles (Developer & IT Support)**  
+---
+
+### **Plus-IT Consulting / Anhanguera Educacional – Software Developer**  
+*Apr 2012 – Feb 2014*  
+- Built web applications for institutional portals using **PHP, frameworks, JSON, SQL**.  
+- Deployed **cloud-based applications** on AWS.  
+- Optimized applications with **caching strategies**.  
+
+---
+
+### **Other Companies – Various Roles (Developer & IT Support)**  
 *2003 – 2011*  
-- Supported development of internal systems with **VB6, ASP, PL/SQL, PHP, and PostgreSQL**.  
+- Supported development of internal systems with **VB6, ASP, PL/SQL, PHP, PostgreSQL**.  
 - Created intranet applications and custom tools for **Windows/Linux environments**.  
 - Delivered IT support ensuring **SLA compliance, remote support, and system availability**.  
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills  
+
 - **Programming Languages:** Go (Advanced), PHP (Advanced), JavaScript/TypeScript (Intermediate), SQL (Advanced)  
 - **Frameworks & Libraries:** Symfony (Advanced), Express.js (Intermediate), React (Basic)  
 - **Databases:** MySQL (Advanced), PostgreSQL (Intermediate), MongoDB (Intermediate), MariaDB (Advanced)  
@@ -64,7 +75,8 @@ Backend Software Engineer with **10+ years of experience** in designing and buil
 
 ---
 
-## Certifications
+## 🏅 Certifications  
+
 - **AWS Certified Cloud Practitioner** – Amazon Web Services (2023)  
 - **Zend Framework 2 Certification** – Zend  
 - **AWS Expert (Internal/Training Certification)** – Amazon Web Services  
